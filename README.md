@@ -9,7 +9,6 @@ Built using a Streamlit UI for real-time digit prediction.
 digit-recognizer/
 ├── DigitRecApp/ ← Streamlit web app
 │ ├── app.py
-│ └── (other Streamlit files)
 ├── Wetaan_Task_Digit_Recogniser.ipynb ← Model training notebook (Google Colab)
 ├── digit_model.pth ← Trained model file (PyTorch)
 └── README.md 
