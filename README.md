@@ -39,10 +39,3 @@ torch
 torchvision
 numpy
 
-
-### 🛠 Next Steps?
-- Want me to help write the `requirements.txt`?
-- Want to deploy it online with a shareable link?
-- Want help adding a digit drawing canvas in Streamlit?
-
-Let me know and I’ll walk you through any of those too!
