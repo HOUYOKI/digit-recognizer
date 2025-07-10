@@ -28,7 +28,7 @@ To view or reproduce the training process:
 
 ## 🖥️ Run the App
 
-### 🔧 1. Install dependencies
+### 🔧 Install dependencies
 
 Make sure you have Python and Streamlit installed.  
 Inside the `DigitRecApp/` folder, create a `requirements.txt` like this:
